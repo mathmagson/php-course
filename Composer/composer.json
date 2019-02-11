@@ -1,0 +1,15 @@
+{
+    "name": "hcodebr/composer",
+    "description": "aula de PHP 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Matheus Magnusson",
+            "email": "mathmagson@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
